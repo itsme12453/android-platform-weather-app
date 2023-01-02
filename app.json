@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.itsme12453.crossplatformweatherapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"

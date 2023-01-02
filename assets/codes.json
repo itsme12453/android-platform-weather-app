@@ -1,0 +1,290 @@
+[
+	{
+		"code" : 1000,
+		"day" : "Sunny",
+		"night" : "Clear",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/sun-3321879-2775242.png"
+	},
+	{
+		"code" : 1003,
+		"day" : "Partly cloudy",
+		"night" : "Partly cloudy",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-3321877-2775240.png"
+	},
+	{
+		"code" : 1006,
+		"day" : "Cloudy",
+		"night" : "Cloudy",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-3321877-2775240.png"
+	},
+	{
+		"code" : 1009,
+		"day" : "Overcast",
+		"night" : "Overcast",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-3321877-2775240.png"
+	},
+	{
+		"code" : 1030,
+		"day" : "Mist",
+		"night" : "Mist",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-and-fog-3321883-2775246.png"
+	},
+	{
+		"code" : 1063,
+		"day" : "Patchy rain possible",
+		"night" : "Patchy rain possible",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/heavy-rain-3321896-2775259.png"
+	},
+	{
+		"code" : 1066,
+		"day" : "Patchy snow possible",
+		"night" : "Patchy snow possible",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1069,
+		"day" : "Patchy sleet possible",
+		"night" : "Patchy sleet possible",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321894-2775257.png"
+	},
+	{
+		"code" : 1072,
+		"day" : "Patchy drizzle possible",
+		"night" : "Patchy drizzle possible",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1087,
+		"day" : "Thundery outbreaks possible",
+		"night" : "Thundery outbreaks possible",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/heavy-raining-and-thunder-3321898-2775261.png"
+	},
+	{
+		"code" : 1114,
+		"day" : "Blowing snow",
+		"night" : "Blowing snow",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1117,
+		"day" : "Blizzard",
+		"night" : "Blizzard",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1135,
+		"day" : "Fog",
+		"night" : "Fog",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-3321877-2775240.png"
+	},
+	{
+		"code" : 1147,
+		"day" : "Freezing fog",
+		"night" : "Freezing fog",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-air-flow-3321889-2775252.png"
+	},
+	{
+		"code" : 1150,
+		"day" : "Patchy light drizzle",
+		"night" : "Patchy light drizzle",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1153,
+		"day" : "Light drizzle",
+		"night" : "Light drizzle",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1168,
+		"day" : "Freezing drizzle",
+		"night" : "Freezing drizzle",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1171,
+		"day" : "Heavy freezing drizzle",
+		"night" : "Heavy freezing drizzle",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1180,
+		"day" : "Patchy light rain",
+		"night" : "Patchy light rain",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1183,
+		"day" : "Light rain",
+		"night" : "Light rain",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1186,
+		"day" : "Moderate rain at times",
+		"night" : "Moderate rain at times",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1189,
+		"day" : "Moderate rain",
+		"night" : "Moderate rain",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1192,
+		"day" : "Heavy rain at times",
+		"night" : "Heavy rain at times",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1195,
+		"day" : "Heavy rain",
+		"night" : "Heavy rain",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1198,
+		"day" : "Light freezing rain",
+		"night" : "Light freezing rain",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1201,
+		"day" : "Moderate freezing rain",
+		"night" : "Moderate freezing rain",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1204,
+		"day" : "Light sleet",
+		"night" : "Light sleet",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1207,
+		"day" : "Moderate sleet",
+		"night" : "Moderate sleet",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1210,
+		"day" : "Patchy light snow",
+		"night" : "Patchy light snow",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1213,
+		"day" : "Light snow",
+		"night" : "Light snow",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1216,
+		"day" : "Patchy moderate snow",
+		"night" : "Patchy moderate snow",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1219,
+		"day" : "Moderate snow",
+		"night" : "Moderate snow",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1222,
+		"day" : "Patchy heavy snow",
+		"night" : "Patchy heavy snow",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1225,
+		"day" : "Heavy snow",
+		"night" : "Heavy snow",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1237,
+		"day" : "Ice pellets",
+		"night" : "Ice pellets",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/water-drops-3321890-2775253.png"
+	},
+	{
+		"code" : 1240,
+		"day" : "Light rain shower",
+		"night" : "Light rain shower",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1243,
+		"day" : "Moderate rain shower",
+		"night" : "Moderate rain shower",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1246,
+		"day" : "Torrential rain shower",
+		"night" : "Torrential rain shower",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321885-2775248.png"
+	},
+	{
+		"code" : 1249,
+		"day" : "Light sleet showers",
+		"night" : "Light sleet showers",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-and-fog-3321883-2775246.png"
+	},
+	{
+		"code" : 1252,
+		"day" : "Moderate sleet showers",
+		"night" : "Moderate sleet showers",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/cloud-and-fog-3321883-2775246.png"
+	},
+	{
+		"code" : 1255,
+		"day" : "Light snow showers",
+		"night" : "Light snow showers",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1258,
+		"day" : "Moderate snow showers",
+		"night" : "Moderate snow showers",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/snowfall-3321880-2775243.png"
+	},
+	{
+		"code" : 1261,
+		"day" : "Light showers of ice pellets",
+		"night" : "Light showers of ice pellets",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321894-2775257.png"
+	},
+	{
+		"code" : 1264,
+		"day" : "Moderate showers of ice pellets",
+		"night" : "Moderate showers of ice pellets",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/slow-raining-3321894-2775257.png"
+	},
+	{
+		"code" : 1273,
+		"day" : "Patchy light rain with thunder",
+		"night" : "Patchy light rain with thunder",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/heavy-raining-and-thunder-3321898-2775261.png"
+	},
+	{
+		"code" : 1276,
+		"day" : "Moderate rain with thunder",
+		"night" : "Moderate rain with thunder",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/heavy-raining-and-thunder-3321898-2775261.png"
+	},
+	{
+		"code" : 1279,
+		"day" : "Patchy light snow with thunder",
+		"night" : "Patchy light snow with thunder",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/heavy-raining-and-thunder-3321898-2775261.png"
+	},
+	{
+		"code" : 1282,
+		"day" : "Moderate snow with thunder",
+		"night" : "Moderate snow with thunder",
+		"icon" : "https://cdn3d.iconscout.com/3d/premium/thumb/heavy-raining-and-thunder-3321898-2775261.png"
+	}
+]
